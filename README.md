@@ -1,5 +1,5 @@
 # Projeto trigotec
-Este projeto foi desenvolvido como parte da disciplina de  matematica  e Desenvolvimento de Sistemas. O objetivo é compreender os conceitos de trigonometria, incluindo a conversão entre graus e radianos no ciclo trigonométrico, e decidir algoritmos que mantenham a trigonometria na calculadora. A calculadora realiza conversões entre graus e radianos, além de aplicar o Teorema de Pitágoras.
+Este projeto foi desenvolvido faz parte das disciplinas de  matematica  e Desenvolvimento de Sistemas. A calculadora realiza conversões entre graus e radianos, além de aplicar o Teorema de Pitágoras.
 
 ##  Grupo
 
